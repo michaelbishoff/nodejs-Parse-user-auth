@@ -2,6 +2,8 @@ Node.js & Parse User Authentication
 -----------------------------------
 This tutorial uses Node.js, Express, Hogan.js, Parse, and Heroku to create an end-to-end web app that can sign-up, login, and logout users!
 
+[Check out the demo!](https://node-parse-user-auth.herokuapp.com/)
+
 ## What is Node.js?
 [Node.js](//www.nodejs.org) is a backend framework that is used to create a server. The server will pull data from the database, render pages, and route urls to the correct page. Routing is where you declare "/" or "/users" and whenever a request to "www.yourApp.com/" the "/" route is called, or "www.yourApp.com/users" the "/users" route is called.
 
