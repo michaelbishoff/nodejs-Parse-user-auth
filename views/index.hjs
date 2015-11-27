@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>User Auth Example</title>
+    <link rel='stylesheet' href='/stylesheets/style.css' />
+  </head>
+  <body>
+    
+    <h2 style="color:red">{{ message }}</h2>
+    <h1>End-to-End User Authentication Example</h1>
+    
+    Login
+    <form id="loginForm" method="post" action="/login">
+      <label for="email">Email: </label>
+      <input type="text" id="email" name="email">
+      <br>
+      <label for="password">Password: </label>
+      <input type="password" id="password" name="password">
+      <br>
+      <input type="submit">
+    </form>
+    <br>
+    <br>
+    
+    Sign-up
+    <form id="signupForm" method="post" action="/login">
+      <label for="email">Email: </label>
+      <input type="text" id="email" name="email">
+      <br>
+      <label for="password">Password: </label>
+      <input type="password" id="password" name="password">
+      <br>
+      <input type="hidden" name="newUser" value="true">
+      <input type="submit">
+    </form>
+  </body>
+</html>
