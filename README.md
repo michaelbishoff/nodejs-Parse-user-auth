@@ -9,9 +9,7 @@ This tutorial uses Node.js, Express, Hogan.js, Parse, and Heroku to create an en
 
 
 ## What is Parse?
-[Parse](//www.parse.com) is a database that is in the cloud! You don't have to \
-worry about configuring it, hosting it, or other difficult tasks. You just grab\
- the application's keys and you can access your database with javascript!
+[Parse](//www.parse.com) is a database that is in the cloud! You don't have to worry about configuring it, hosting it, or other difficult tasks. You just gra the application's keys and you can access your database with javascript!
 
 
 ## Other Frameworks (you don't need to download)
