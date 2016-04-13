@@ -1,3 +1,5 @@
+## [*Deprecated* Parse is shutting down on Jan. 28, 2017](http://blog.parse.com/announcements/moving-on/)
+
 Node.js & Parse User Authentication
 -----------------------------------
 This tutorial uses Node.js, Express, Hogan.js, Parse, and Heroku to create an end-to-end web app that can sign-up, login, and logout users!
