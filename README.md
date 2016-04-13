@@ -1,4 +1,4 @@
-## [**Deprecated** Parse is shutting down on Jan. 28, 2017](http://blog.parse.com/announcements/moving-on/)
+## [* Deprecated * Parse is shutting down on Jan. 28, 2017](http://blog.parse.com/announcements/moving-on/)
 
 Node.js & Parse User Authentication
 -----------------------------------
